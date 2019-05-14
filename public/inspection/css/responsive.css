@@ -1,0 +1,255 @@
+
+@media only screen and (max-width: 1380px) {
+}
+
+@media only screen and (max-width: 1220px) {
+body {
+	overflow-x: hidden;
+}
+.circle {
+	width: 446px;
+	height: 446px;
+	top: -110px;
+	right: -140px;
+}
+.caption {
+	padding: 40px 0;
+}
+.caption h2 {
+	font: normal 3rem/ 50px 'Roboto Slab', serif;
+	margin-bottom: 10px;
+}
+.btn {
+	margin-bottom: 15px;
+}
+.testimonial-wrapper {
+	padding: 50px 20px;
+}
+.font50 {
+	font-size: 3.5rem;
+	font-weight: normal;
+}
+}
+
+@media (min-width: 992px){
+	.container {
+    width: 880px;
+}
+}
+@media (min-width: 1200px){
+	.container {
+    width: 1050px;
+}
+}
+@media (min-width: 1250px){
+	.container {
+    width: 1170px;
+}
+	
+}
+@media only screen and (max-width: 1180px) { 
+.da-thumbs li {
+    max-width: 258px;
+    
+}
+}
+@media only screen and (max-width: 980px) {
+	h1.logo {
+    width: 120px;
+}
+	.navbar-default .pull-right {
+		float: none !important;
+		
+	}
+	.navbar-default .navbar-nav>li>a {
+    padding: 0 15px 10px 15px;
+}
+	.navbar-nav {
+		margin-left:20px;
+	}
+	.navbar-toggle {
+		margin: 0;
+	}
+	
+}
+
+@media only screen and (max-width: 850px) {
+	.da-thumbs {
+		width: 100%;
+		height: auto;
+	}
+	.da-thumbs li {
+    max-width: 205px;
+    margin: 15px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+body {
+	overflow-x: hidden;
+}
+.hero-section {
+	padding: 0;
+}
+.circle {
+	display: none;
+}
+h1.logo {
+	float: none !important;
+}
+h1.logo a {
+	display: block;
+}
+h1.logo a img {
+	margin: 0 auto;
+}
+	.navbar-nav {
+		margin: 0;
+	}
+.navbar-default .pull-right {
+	float: none !important;
+}
+.nav>li {
+	display: inline-block;
+}
+.navbar-default .navbar-nav>li>a {
+	padding: 5px;
+	font-size: 1.3rem;
+}
+#nav-icon {
+	position: absolute;
+	top: 10px;
+	right: 0;
+}
+.inner-navbar li a {
+	font-size: 1.8rem;
+}
+.caption {
+	max-width: 100%;
+	padding: 50px 0;
+	text-align: center;
+}
+.caption h2 {
+	font: normal 3rem/ 30px 'Roboto Slab', serif;
+	margin-bottom: 20px;
+}
+.caption p {
+	font-size: 1.4rem;
+	font-weight: normal;
+	line-height: 25px;
+}
+.btn {
+	font-size: 1.2rem;
+	padding: 6px 14px;
+	margin-bottom: 10px;
+}
+h4 {
+	font-size: 1.4rem;
+}
+h2 {
+	font: bold 2rem 'Roboto Slab', serif;
+}
+.mb50 {
+	margin-bottom: 20px;
+}
+.second-section .container {
+	padding: 0;
+}
+.section-first {
+	background: none;
+}
+.testimonial .avatar {
+	position: static;
+	margin: 0 auto 20px auto;
+}
+.testimonial .item {
+	padding: 0 20px;
+	text-align: center;
+}
+.testimonial .testimonial-content:before {
+	display: none;
+}
+.font50 {
+	font-size: 3rem;
+}
+.font25 {
+	font-size: 1.8rem;
+}
+.intro {
+	text-align: center;
+}
+	.page-top h2 {
+   font: 100 2.5rem 'Fira Sans', sans-serif;
+}
+	.about-content {
+    padding: 40px 0 0 0;
+}
+	.features .box {
+		padding: 0;
+		text-align: center;
+	}
+	.features .box i.featured-icon {
+		position: static;
+	}
+	section.innerpage {
+    padding: 20px;
+}
+	.contact-box .contact-icon {
+		position: static;
+		margin: 0 auto;
+	}
+	.contact-box {
+		padding: 0;
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 680px) {
+	.da-thumbs li {
+		
+  
+		max-width: 240px;
+	}
+	.contact-form form .form-group .form-control {
+    height: 40px;
+   
+    font-size: 1.4rem;
+    
+}
+	
+}
+
+@media only screen and (max-width: 560px) {
+	.da-thumbs li {
+		float: none;
+    margin: 0 auto 20px auto;
+		max-width: 100%;
+	}
+	.panel-title a {
+		font-size: 2rem;
+	}
+	.panel-title a .post-date {
+    	display: block;
+		float: none !important;
+		margin-top: 15px;
+}
+	.panel-body .specification li {
+    
+    font-weight: 300;
+}
+.panel-body .specification li span.basic-info {
+    width: auto; 
+    
+    font-weight: normal;
+}
+	.panel-body .specification li span.basic-info .seperator {
+		margin-right: 10px;
+	}
+	.panel-body .specification li span.tag {
+		margin-bottom: 5px;
+	}
+}
+
+
+@media only screen and (max-width: 320px) {
+}
